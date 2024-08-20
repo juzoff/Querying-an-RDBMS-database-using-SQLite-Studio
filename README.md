@@ -1,6 +1,6 @@
 # SQLite Database Project
 
-This project involves creating and querying an SQLite database using SQLite Studio. The database, named **"sample"**, includes a table called **"test_data"** with various product information. The assignment covers the following tasks:
+This project involved creating and querying an SQLite database using SQLite Studio. The database, named **"sample"**, included a table called **"test_data"** with various product information. The assignment covered the following tasks:
 
 1. **Database Creation**: 
    - Create an SQLite database named **"sample"**.
